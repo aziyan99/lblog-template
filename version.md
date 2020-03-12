@@ -1,1 +1,5 @@
-v-1.0.0
+## Version 1.0.0
+- Make index html
+- Add small image library below of navbar
+- Add header banner
+- Add social media icon
