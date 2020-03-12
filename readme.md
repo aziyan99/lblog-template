@@ -7,7 +7,7 @@
 
 This is an simple template for simple blog also, made with boostrap4, fontawesome, and friconix
 
-![](screenshot\screenshot/screencapture-127-0-0-1-5500-index-html-2020-03-12-12_16_40.png)
+![](screenshot/screencapture-127-0-0-1-5500-index-html-2020-03-12-12_16_40.png)
 
 ## Release History
 
